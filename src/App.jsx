@@ -1,9 +1,3 @@
-/**
- * Application component
- *
- * To contain application wide settings, routes, state, etc.
- */
-
 import React from "react";
 
 import About from "./Components/About";
@@ -14,24 +8,14 @@ import Portfolio from "./Components/Portfolio";
 
 import "./styles.css";
 
-/**
- * This object represents your information. The project is set so that you
- * only need to update these here, and values are passed a properties to the
- * components that need that information.
- *
- * Update the values below with your information.
- *
- * If you don't have one of the social sites listed, leave it as an empty string.
- */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  name: "Suryanarayan Panda",
+  title: "Front and Back End Developer",
+  email: "psuryanarayan94@gmail.com",
+  gitHub: "pandasuryanarayan",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
+  linkedIn: "suryanarayan-panda-70267328a",
+  x: "microsoft",
   youTube: "Code",
 };
 
