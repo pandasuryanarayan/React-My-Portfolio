@@ -94,7 +94,6 @@ Footer.propTypes = {
   primaryColor: PropTypes.string,
   x: PropTypes.string,
   youTube: PropTypes.string,
-
 };
 
 export default Footer;
