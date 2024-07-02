@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://pandasuryanarayan.github.io/React-Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://pandasuryanarayan.github.io/React-Portfolio'",
+    "build-gh": "parcel build",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
