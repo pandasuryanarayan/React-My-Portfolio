@@ -1,15 +1,5 @@
-/**
- * Portfolio component
- *
- * Highlights some of  your creations. These can be designs, websites,
- * open source contributions, articles you've written and more.
- *
- * This is a great area for you to to continually add to and refine
- * as you continue to learn and create.
- */
-
 import React from "react";
-import image from "../images/projects.jpg";
+import image from "../images/projects.jpeg";
 
 const imageAltText = "desktop with books and laptop";
 const projectList = [
