@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://pandasuryanarayan.github.io/React-My-Portfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
